@@ -1,6 +1,3 @@
-magento_free_item
-=================
-
 <h1>Free gift / free item for Magento order</h1>
 
 An extension of standard Magento Community Edition "SalesRule" class, that lets you offer a free item or gift for your customers, when they are making an order.
