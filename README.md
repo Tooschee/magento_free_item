@@ -9,3 +9,7 @@ An extension of standard Magento Community Edition "SalesRule" class, that lets 
 
 <h1>What Magento versions?</h1>
 Tested on Magento CE 1.7.0.2, should work with 1.4 and later.
+
+
+<h3>Link to post on my blog about this</h3>
+<a href="http://tooschee.com/magento-free-giftitem-shopping-cart-rule-addon/">magento-free-giftitem-shopping-cart-rule-addon</a>
